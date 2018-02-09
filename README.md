@@ -11,8 +11,6 @@ Unresolved Issues:
 Notes:  
 
 
----
-
 Purpose:  
 
 Learn to use conditional statements. 
